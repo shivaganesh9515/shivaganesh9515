@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  /* Header Styles */
+  
+  header {
+    background-color: #f5f5f5;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #333;
+  }
+  
+  .banner {
+    background-image: url("banner.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    padding: 20px;
+  }
+  
+  .banner h1 {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .banner h2 {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  /* Main Styles */
+  
+  main {
+    padding: 20px;
+  }
+  
+  .products {
+    margin-bottom: 50px;
+  }
+  
+  .products h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .product-grid article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .product-grid img {
+    width: 100%;
+  }
+  
+  .product-grid h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .product-grid p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .product-grid a {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .blog {
+    margin-bottom: 50px;
+  }
+  
+  .blog h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .blog-grid article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .blog-grid img {
+    width: 100%;
+  }
+  
+  .blog-grid h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-grid p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-grid a {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  /* Footer Styles */
+  
+  footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
