@@ -7,7 +7,7 @@
   <tr>
     <td valign="top" width="58%">
       <p align="justify">
-        <b>Hello there!</b> I'm a software developer and product builder from Karimnagar, India. I lead product and engineering at <b>Slick Technologies</b> and co-founded <b>Next360</b>. My work spans full-stack applications, product architecture, and practical AI tools.
+        <b>Hello there!</b> I'm a software developer and product builder from Karimnagar, India. I'm Founder &amp; CTO of <b>Slick Technologies</b> and Co-founder &amp; CTO of <b>Next360</b>. My work spans full-stack applications, product architecture, and practical AI tools.
       </p>
     </td>
     <td valign="top" width="42%" align="center">
