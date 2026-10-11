@@ -1,18 +1,26 @@
-# Shivaganesh Gajavelli
+<div align="center">
 
-**Founder & CTO · Product builder**
+# SHIVANAGANESH GAJAVELLI
 
-I build software at the intersection of AI, developer tools, and commerce.
+`FOUNDER & CTO` · `PRODUCT BUILDER`
 
-## Building
+**AI / DEVELOPER TOOLS / COMMERCE**
+
+</div>
+
+---
+
+### 01 / BUILDING
 
 **SlickCode** — AI-assisted coding across multiple models, including local workflows with Ollama.
 
 **Next360** — An organic marketplace connecting farmers, producers, retailers, and customers.
 
-## Focus
+### 02 / TOOLKIT
 
 TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Prisma · React Native · Expo · Ollama
+
+### 03 / BACKGROUND
 
 Founder & CTO at Slick Technologies · Co-founder & CTO at Next360
 
