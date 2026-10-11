@@ -109,7 +109,3 @@ Your contribution calendar and activity are shown on your [GitHub profile](https
   <a href="https://github.com/shivaganesh9515"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivaganesh9515&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
-</div>
