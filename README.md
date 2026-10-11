@@ -28,15 +28,15 @@ venture    = "Next360 — Co-founder & CTO"
 
 ### MAIN QUEST — SLICKCODE
 
-Building AI-assisted developer tooling around multi-model coding workflows and local models.
+AI-assisted developer tooling for multi-model coding workflows, including exploration of local models.
 
 `TypeScript` `Node.js` `Ollama`
 
 ### MAIN QUEST — NEXT360 ORGANIC MARKETPLACE
 
-Developing the product and technical direction for a multi-vendor marketplace connecting farmers, producers, retailers, and customers.
+Product and technical direction for a multi-vendor marketplace connecting farmers, producers, retailers, and customers.
 
-`NestJS` `PostgreSQL` `Prisma` `Commerce systems`
+Architecture explored: `NestJS` `PostgreSQL` `Prisma` · `Commerce systems`
 
 ## ◈ ABILITY TREE ◈
 
