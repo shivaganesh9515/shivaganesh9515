@@ -1,16 +1,21 @@
-# Hi, I'm Shivaganesh
+# Shivaganesh Gajavelli
 
-I'm a student building web apps and exploring practical AI tools.
+**Founder & CTO · Product builder**
 
-## Selected projects
+I build software at the intersection of AI, developer tools, and commerce.
 
-- [AgriFriend Bot](https://github.com/shivaganesh9515/agrifriend-bot) — a WhatsApp farming assistant built with TypeScript and Gemini.
-- [Slick Loyalty Engine](https://github.com/shivaganesh9515/slick-loyalty-engine) — a loyalty API built with NestJS, Prisma, and PostgreSQL.
+## Building
 
-## Tools I use
+**SlickCode** — AI-assisted coding across multiple models, including local workflows with Ollama.
 
-TypeScript · Node.js · NestJS · Prisma · PostgreSQL
+**Next360** — An organic marketplace connecting farmers, producers, retailers, and customers.
 
-## Connect
+## Focus
 
-[@gunny9700 on X](https://x.com/gunny9700)
+TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Prisma · React Native · Expo · Ollama
+
+Founder & CTO at Slick Technologies · Co-founder & CTO at Next360
+
+Electrical & Electronics Engineering · Sree Chaithnya Institute of Technological Sciences
+
+[X / @gunny9700](https://x.com/gunny9700)
