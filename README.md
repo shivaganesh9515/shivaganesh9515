@@ -95,18 +95,11 @@
 
 ---
 
-<details open>
-<summary><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"> <b>GitHub Analytics</b></summary>
-<br>
-<div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=shivaganesh9515&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&include_all_commits=true&cache_seconds=1800" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivaganesh9515&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800" alt="Top languages">
-</div>
-<br>
-<div align="center">
-  <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=shivaganesh9515&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4" alt="Contribution streak">
-</div>
-</details>
+<h3>GitHub Activity 📈</h3>
+
+Your contribution calendar and activity are shown on your [GitHub profile](https://github.com/shivaganesh9515).
+
+[Browse public repositories →](https://github.com/shivaganesh9515?tab=repositories)
 
 ---
 
