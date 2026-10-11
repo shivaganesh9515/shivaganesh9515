@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave">, I'm Shivaganesh Gajavelli</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Founder+%26+CTO;Product+Builder;AI+Application+Developer&center=true&width=520&height=50" alt="Software Developer · Founder and CTO · Product Builder · AI Application Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Founder+%26+CEO;Product+Builder;AI+Application+Developer&center=true&width=520&height=50" alt="Software Developer · Founder and CTO · Product Builder · AI Application Developer">
 </p>
 
 <table width="100%">
   <tr>
     <td valign="top" width="58%">
       <p align="justify">
-        <b>Hello there!</b> I'm a software developer and product builder from Karimnagar, India. I'm Founder &amp; CTO of <b>Slick Technologies</b> and Co-founder &amp; CTO of <b>Next360</b>. My work spans full-stack applications, product architecture, and practical AI tools.
+        <b>Hello there!</b> I'm a software developer and product builder from Karimnagar, India. I'm Founder &amp; CEO of <b>Slick Technologies</b> and Co-founder &amp; CTO of <b>Next360</b>. My work spans full-stack applications, product architecture, and practical AI tools.
       </p>
     </td>
     <td valign="top" width="42%" align="center">
