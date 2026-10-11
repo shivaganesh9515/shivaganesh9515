@@ -1,29 +1,57 @@
 <div align="center">
 
-# SHIVANAGANESH GAJAVELLI
-
-`FOUNDER & CTO` · `PRODUCT BUILDER`
-
-**AI / DEVELOPER TOOLS / COMMERCE**
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  > SHIVA_OS v1.0 ................................ ONLINE [OK] ║
+║  > PLAYER ID       : SHIVANAGANESH GAJAVELLI                 ║
+║  > CLASS            : SOFTWARE DEVELOPER / FOUNDER             ║
+║  > GUILD             : SLICK TECHNOLOGIES [FOUNDER & CTO]      ║
+║  > BASE              : KARIMNAGAR, INDIA                      ║
+║  > STATUS            : BUILDING SLICKCODE + NEXT360            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
+## ◈ PLAYER PROFILE ◈
 
-### 01 / BUILDING
+```python
+name       = "Shivaganesh Gajavelli"
+role       = "Founder & CTO · Software Developer · Product Builder"
+education  = "Electrical & Electronics Engineering"
+institute  = "Sree Chaithnya Institute of Technological Sciences"
+company    = "Slick Technologies"
+venture    = "Next360 — Co-founder & CTO"
+```
 
-**SlickCode** — AI-assisted coding across multiple models, including local workflows with Ollama.
+## ◈ QUEST LOG ◈
 
-**Next360** — An organic marketplace connecting farmers, producers, retailers, and customers.
+### MAIN QUEST — SLICKCODE
 
-### 02 / TOOLKIT
+Building AI-assisted developer tooling around multi-model coding workflows and local models.
 
-TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Prisma · React Native · Expo · Ollama
+`TypeScript` `Node.js` `Ollama`
 
-### 03 / BACKGROUND
+### MAIN QUEST — NEXT360 ORGANIC MARKETPLACE
 
-Founder & CTO at Slick Technologies · Co-founder & CTO at Next360
+Developing the product and technical direction for a multi-vendor marketplace connecting farmers, producers, retailers, and customers.
 
-Electrical & Electronics Engineering · Sree Chaithnya Institute of Technological Sciences
+`NestJS` `PostgreSQL` `Prisma` `Commerce systems`
+
+## ◈ ABILITY TREE ◈
+
+**WEB**  `React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**BACKEND & DATA**  `Node.js` `NestJS` `PostgreSQL` `Prisma` `Drizzle`
+
+**AI SYSTEMS**  `Ollama` `RAG` `ChromaDB` `Embeddings` `Multi-agent workflows`
+
+**MOBILE**  `React Native` `Expo`
+
+## ◈ NEXT LEVEL ◈
+
+Shipping reliable products · Deepening computer science and system design · Building production-grade systems
+
+## ◈ SEND TRANSMISSION ◈
 
 [X / @gunny9700](https://x.com/gunny9700)
